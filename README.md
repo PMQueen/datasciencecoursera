@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-To be Queen of data analyst 
+data analysis for assoc management
